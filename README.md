@@ -1,9 +1,11 @@
 # Experiment_Time_Table
 
 ## AIM:
+
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM:
+
 ### STEP 1:
 Create a simple table using table tag.
 ### STEP 2:
@@ -14,6 +16,7 @@ Add your timetable.
 Execute the program.
 
 # CODE:
+
 ~~~
 <!DOCTYPE html>
 <html>
@@ -23,7 +26,7 @@ Execute the program.
 
 <body>
 <font color="BLACK">
-    <table border = "3" cellospacing = "2" bordercolor = "BLACK" bgcolor= "LIGHTCYAN" ><img src="logo.png">
+    <table border = "3" cellospacing = "2" bordercolor = "BLACK" bgcolor= "LIGHTCYAN" > <img src="logo.png">
     
      <tr>
         <th colspan = "8"> TIME TABLE</th>
@@ -98,6 +101,16 @@ Execute the program.
 
 
 ~~~
-# OUPUT:
-![Timetable](logo.png)
-![Timetable](wttt.png)
+# OUTPUT:
+
+![TimeTable](logoo.png)
+
+
+# VALIDATION REPORT:
+
+![Report](w3val.png)
+
+# RESULT:
+
+Thus ,writing a html webpage page to display the timetable is executted successfully.
+
